@@ -1,9 +1,10 @@
 ﻿namespace CatsWorld;
 
-public internal class Startup
+public class Startup
 {
-    static void Main()
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, Cats!");
+        ILogger logger = new ConsoleLogger();
+        logger.Log("Hello, Cats!");
     }
 }

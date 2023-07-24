@@ -1,6 +1,6 @@
 ﻿namespace CatsWorld;
 
-public class Program
+public class Startup
 {
     static void Main(string[] args)
     {

@@ -4,6 +4,6 @@ public internal class Startup
 {
     static void Main()
     {
-        Console.WriteLine("Hello, Cats2!");
+        Console.WriteLine("Hello, Cats!");
     }
 }

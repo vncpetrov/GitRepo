@@ -1,9 +1,9 @@
 ﻿namespace CatsWorld;
 
-internal class Startup
+public internal class Startup
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Hello, Cats!");
+        Console.WriteLine("Hello, Cats2!");
     }
 }

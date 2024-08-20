@@ -8,5 +8,4 @@ namespace CatsWorld;
 
 public class ConsoleLogger
 { 
-  
 }
